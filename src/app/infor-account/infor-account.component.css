@@ -1,0 +1,16 @@
+.login_box_area .login_box_img .hover p {
+  max-width: 380px;
+  margin: 0px 15px 10px;
+  color: #fff;
+}
+
+.login_form_inner {
+  padding-top: 0px;
+}
+.login_form_inner .login_form {
+  height: 75%;
+}
+
+.login_form_inner h3,h2 {
+  margin-bottom: 30px;
+}
